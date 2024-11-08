@@ -1,4 +1,21 @@
-# 
+'''In Python, a dictionary is an unordered collection of key-value pairs, where each key is unique. 
+   Dictionaries are mutable, meaning you can change their contents after they are created. 
+   They are also referred to as "hash maps" in other programming languages due to their internal implementation using hash functions.
+
+Dictionaries are one of the most commonly used data structures in Python, and they allow for efficient retrieval of values using keys.
+
+Key Characteristics of Dictionaries
+1) Unordered: Dictionaries do not maintain any order for the key-value pairs. In versions of Python prior to 3.7, the order of keys was not guaranteed. 
+              However, starting with Python 3.7, dictionaries maintain insertion order, but they should still be considered unordered for general use cases.
+
+2) Key-Value Pair: A dictionary is made up of key-value pairs. A key is unique and is used to access its corresponding value.
+
+3) Mutable: You can modify a dictionary after it is created, adding, removing, or updating key-value pairs.
+
+4) No Duplicate Keys: A dictionary cannot have duplicate keys. If you try to add a new key-value pair with a key that already exists, the old value will be overwritten.
+
+5) Keys are Immutable: While the values in a dictionary can be of any type (mutable or immutable), the keys must be immutable types such as strings, numbers, or tuples.'''
+
 # cities = ['bengaluru','chennai','hyderabad']
 # populations = [10,20,30]
 # 
