@@ -1,3 +1,7 @@
+'''In Python, a list is one of the most commonly used data structures. 
+It is an ordered collection of items, which can be of any data type (e.g., integers, strings, objects, other lists). 
+A list is mutable, meaning that you can modify its contents after it has been created.'''
+
 # charu = ['venkatesh','vasuki','shabarish']
 # print(len(charu)) # len function is used to find the length of the given list
 # 
