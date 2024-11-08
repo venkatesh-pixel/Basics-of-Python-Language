@@ -1,4 +1,4 @@
-111In Python, a set is an unordered collection of unique elements. 
+'''In Python, a set is an unordered collection of unique elements. 
 Sets are very useful when you need to store multiple items but don't care about the order or need to eliminate duplicates from a collection. 
 Sets are one of the built-in data types in Python, and they are part of the collection module.
 
